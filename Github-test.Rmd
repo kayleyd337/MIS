@@ -1,0 +1,14 @@
+---
+title: "Github-test"
+author: "Kayley Dotson"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Welcome to Github!
+
+This is an R Markdown file that has been pushed to Github!
